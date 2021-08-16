@@ -1,2 +1,2 @@
 # Background-Colors
-dev.to     jsprospect.com
+dev.to jsprospect.com
