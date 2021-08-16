@@ -1,6 +1,6 @@
 let index = 0;
 
-function changeColors("click", ) {
+function changeColors() {
     let colors = ["red", "blue", "orange", "yellow", "green", "purple"]
 
     document.getElementsByTagName("body")[0].style.background = colors[index++];
