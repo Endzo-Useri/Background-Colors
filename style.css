@@ -7,7 +7,7 @@
     /* centers content within the container */
     justify-content: center;
 
-
+    /* cross axis from top to bottom */
     align-items: center;
 
     /* vertical height */
