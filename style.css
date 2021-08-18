@@ -1,15 +1,15 @@
 .container {
-    /* outlines the container */
-    border: 1px solid black;
+  /* outlines the container */
+  /* border: 1px solid black; */
 
-    display: flex;
+  display: flex;
 
-    /* centers content within the container */
-    justify-content: center;
+  /* centers content within the container */
+  justify-content: center;
 
-    /* cross axis from top to bottom */
-    align-items: center;
+  /* cross axis from top to bottom */
+  align-items: center;
 
-    /* vertical height */
-    height: 100vh;
+  /* vertical height */
+  height: 100vh;
 }

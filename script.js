@@ -14,6 +14,7 @@ let index = 0;
 function changeColors() {
     let colors = ["red", "blue", "orange", "yellow", "green", "purple", "white", "chocolate"]
 
+    // Compliments of Tarek Visch
     document.body.style.background = colors[index++];
 
     if(index > colors.length - 1)
