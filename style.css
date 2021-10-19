@@ -1,15 +1,11 @@
+body {
+	margin: 0;
+}
+
 .container {
-  /* outlines the container */
-  border: 1px solid black;
-
+  border: 10px solid black;
   display: flex;
-
-  /* centers content within the container */
   justify-content: center;
-
-  /* cross axis from top to bottom */
   align-items: center;
-
-  /* viewport height */
   height: 100vh;
 }
